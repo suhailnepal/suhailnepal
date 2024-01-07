@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Azure related projects
 - 💬 Ask me about System Engineering, Devops, Cloud Infrastructure, Cloud Networking, Cloud Architecture. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Outside my tech world I like spending time with my doggo, ocassionally I do meditation and pretend to read books. 
+- ⚡ Fun fact: Outside my tech world I like spending time with my doggo, ocassionally I do meditation and read books on spirituality.
 
 <img src="giphy.gif" alt="Giphy" />
 
