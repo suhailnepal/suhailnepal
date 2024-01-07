@@ -7,4 +7,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I m also an Avation geek. 
 
-![Giphy](giphy.gif)
+<img src="giphy.gif" alt="Giphy" width="100" height="100" />
+
