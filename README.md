@@ -6,5 +6,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Outside my tech world I like spending time with my doggo. 
 
-<img src="giphy.gif" alt="Giphy" />
-
